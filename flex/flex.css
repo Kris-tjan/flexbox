@@ -1,0 +1,74 @@
+.fs {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    background-color: khaki;
+}
+
+.fs div{
+    height: 50px ;
+    width: 50px;
+    margin: 20px;
+    background-color: darkcyan;
+}
+
+.fe {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-end;
+    background-color: silver;
+}
+
+.fe div{
+    height: 50px ;
+    width: 50px;
+    margin: 20px;
+    background-color: chartreuse;
+}
+
+.sa{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgreen;
+}
+
+.sa div{
+    height: 50px ;
+    width: 50px;
+    margin: 20px;
+    background-color: purple;
+}
+
+.sb {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    background-color: palevioletred;
+}
+
+.sb div{
+    height: 50px ;
+    width: 50px;
+    margin: 20px;
+    background-color: black;
+}
+
+.se {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: palevioletred;
+}
+
+.se div{
+    height: 50px ;
+    width: 50px;
+    margin: 20px;
+    background-color: black;
+}
